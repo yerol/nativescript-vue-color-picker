@@ -2,7 +2,7 @@
 
 > A Nativescript-Vue color picker component for Android and IOS using hsl-spectrum touch selection, lightness and alpha sliders
 
-Based on the code from [nativescript-color-picker](https://github.com/bradmartin/nativescript-color-picker)
+Based on the code by Martin Hettiger from [NS Playground](https://play.nativescript.org/?template=play-ng&id=ARBnh6&v=12)
 
 ## Screenshots
 
